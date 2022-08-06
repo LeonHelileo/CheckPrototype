@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Fiat 500",
-      "imageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/04782e30-d72a-4917-9d7a-c862226e0a93",
+      "imageUrl": "https://raw.githubusercontent.com/LeonHelileo/CheckPrototype/main/Fiat500.png",
       "price": "262,40 €"
     }
   ]
