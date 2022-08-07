@@ -28,13 +28,25 @@
       "id": 3,
       "name": "VW Polo",
       "imageUrl": "https://raw.githubusercontent.com/LeonHelileo/CheckPrototype/main/Fiat500.png",
-      "price": "3372,21 €",
+      "price": "372,21 €",
       "pricePerDay": "53,17 €",
       "address": "Gutenbergstr. 6",
       "insuranceSum": "Haftpflicht: 1,2 Mio. €",
       "insuranceDetail": "Ohne Selbstbeteilugung Kaution 560 €",
       "cancelType": "Kostenpflichtig stornierbar",
       "kmFree": "1400"
+    },
+    {
+      "id": 4,
+      "name": "Kia Picanto",
+      "imageUrl": "https://raw.githubusercontent.com/LeonHelileo/CheckPrototype/main/Fiat500.png",
+      "price": "401,21 €",
+      "pricePerDay": "57,17 €",
+      "address": "Stadt-Station",
+      "insuranceSum": "Haftpflicht: 8 Mio. €",
+      "insuranceDetail": "Glas, Reifen, Unterboden, Dach versichert",
+      "cancelType": "Kostenpflichtig stornierbar",
+      "kmFree": "1300"
     }
   ]
 }
