@@ -11,6 +11,30 @@
       "insuranceDetail": "Mit Selbstbeteiligung Kaution 800 €",
       "cancelType": "Kostenpflichtig stornierbar",
       "kmFree": "1050"
-    }
+    },
+    {
+      "id": 2,
+      "name": "Hyundai i20",
+      "imageUrl": "https://raw.githubusercontent.com/LeonHelileo/CheckPrototype/main/Fiat500.png",
+      "price": "308,52 €",
+      "pricePerDay": "44,07 €",
+      "address": "Stadt-Station",
+      "insuranceSum": "Haftpflicht: 1,2 Mio. €",
+      "insuranceDetail": "Ohne Selbstbeteilugung (100% Rückerstattung)",
+      "cancelType": "Kostenpflichtig stornierbar",
+      "kmFree": "1225"
+    },
+    {
+      "id": 3,
+      "name": "VW Polo",
+      "imageUrl": "https://raw.githubusercontent.com/LeonHelileo/CheckPrototype/main/Fiat500.png",
+      "price": "3372,21 €",
+      "pricePerDay": "53,17 €",
+      "address": "Gutenbergstr. 6",
+      "insuranceSum": "Haftpflicht: 1,2 Mio. €",
+      "insuranceDetail": "Ohne Selbstbeteilugung Kaution 560 €",
+      "cancelType": "Kostenpflichtig stornierbar",
+      "kmFree": "1400"
+    },
   ]
 }
