@@ -15,7 +15,7 @@
     {
       "id": 2,
       "name": "Hyundai i20",
-      "imageUrl": "https://raw.githubusercontent.com/LeonHelileo/CheckPrototype/main/Fiat500.png",
+      "imageUrl": "https://raw.githubusercontent.com/LeonHelileo/CheckPrototype/main/Hyundaii20.jpeg",
       "price": "308,52 €",
       "pricePerDay": "44,07 €",
       "address": "Stadt-Station",
@@ -27,7 +27,7 @@
     {
       "id": 3,
       "name": "VW Polo",
-      "imageUrl": "https://raw.githubusercontent.com/LeonHelileo/CheckPrototype/main/Fiat500.png",
+      "imageUrl": "https://raw.githubusercontent.com/LeonHelileo/CheckPrototype/main/VwPolo.jpeg",
       "price": "372,21 €",
       "pricePerDay": "53,17 €",
       "address": "Gutenbergstr. 6",
@@ -39,7 +39,7 @@
     {
       "id": 4,
       "name": "Kia Picanto",
-      "imageUrl": "https://raw.githubusercontent.com/LeonHelileo/CheckPrototype/main/Fiat500.png",
+      "imageUrl": "https://raw.githubusercontent.com/LeonHelileo/CheckPrototype/main/KiaPicanto.jpeg",
       "price": "401,21 €",
       "pricePerDay": "57,17 €",
       "address": "Stadt-Station",
