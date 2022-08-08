@@ -1,14 +1,12 @@
 [
     {
-      "id": 1,
-      "name": "Fiat 500",
-      "imageUrl": "https://raw.githubusercontent.com/LeonHelileo/CheckPrototype/main/Fiat500.png",
-      "price": "262,40 €",
-      "pricePerDay": "37,49 €",
-      "address": "Gutenbergstr. 6",
-      "insuranceSum": "Haftpflicht: 1,2 Mio. €",
-      "insuranceDetail": "Mit Selbstbeteiligung Kaution 800 €",
-      "cancelType": "Kostenpflichtig stornierbar",
-      "kmFree": "1050"
+        "id": 1,
+        "name": "Fiat 500",
+        "imageUrl": "https://raw.githubusercontent.com/LeonHelileo/CheckPrototype/main/Fiat500.png",
+        "carDetailText": "Kleinwagen (Economy-Klasse, Acriss-Code ELMR)",
+        "carInfos": "4 Sitze, 2 Türen, 2 Koffer",
+        "fuel": "Abholung und Rückgabe des Fahrzeugs mit vollem Tank,
+        "km_inclusive": "1050 Kilometer inklusive (jeder weitere Kilometer 0,69 €),
+        "climate": "Klimaanlage inklusive"
     }
 ]
