@@ -1,0 +1,12 @@
+[
+    {
+        "id": 2,
+        "name": "Hyundai i20",
+        "imageUrl": "https://raw.githubusercontent.com/LeonHelileo/CheckPrototype/main/Hyundaii20.jpeg",
+        "carDetailText": "Kleinwagen (Mini-Klasse, Acriss-Code MCMR z.B. Opel Adam, VW Up, Fiat 500)",
+        "carInfos": "4 Sitze, 2 Türen, 2 Koffer",
+        "fuel": "Abholung und Rückgabe des Fahrzeugs mit vollem Tank",
+        "km_inclusive": "2600 Kilometer inklusive (jeder weitere Kilometer 0,22 €)",
+        "climate": "Klimaanlage inklusive"
+    }
+]
