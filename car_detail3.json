@@ -6,7 +6,7 @@
         "carDetailText": "Kleinwagen (Economy-Klasse, Acriss-Code ELMR)",
         "carInfos": "4 Sitze, 2 Türen, 2 Koffer",
         "fuel": "Abholung und Rückgabe des Fahrzeugs mit vollem Tank",
-        "km_inclusive": "1400 Kilometer inklusive (jeder weitere Kilometer 0,35 €)",
+        "kmInclusive": "1400 Kilometer inklusive (jeder weitere Kilometer 0,35 €)",
         "climate": "Klimaanlage inklusive"
     }
 ]
