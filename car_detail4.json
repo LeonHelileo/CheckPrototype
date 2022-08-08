@@ -1,0 +1,12 @@
+[
+    {
+        "id": 4,
+        "name": "Kia Picanto",
+        "imageUrl": "https://raw.githubusercontent.com/LeonHelileo/CheckPrototype/main/KiaPicanto.jpeg",
+        "carDetailText": "Kleinwagen (Kompakt-Klasse, Acriss-Code CDMR)",
+        "carInfos": "5 Sitze, 2 Türen, 2 Koffer",
+        "fuel": "Abholung und Rückgabe des Fahrzeugs mit vollem Tank",
+        "km_inclusive": "2000 Kilometer inklusive (jeder weitere Kilometer 0,45 €)",
+        "climate": "Klimaanlage inklusive"
+    }
+]
